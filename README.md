@@ -1,3 +1,3 @@
 # Kuda-Learning
-my training repository 
+My training repository 
 This is my first commmit 
